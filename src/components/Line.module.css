@@ -1,0 +1,17 @@
+.cells {
+    display: flex;
+    justify-content: center;
+}
+
+.cell {
+    border: 1px solid grey;
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}

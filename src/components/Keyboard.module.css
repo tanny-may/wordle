@@ -1,0 +1,15 @@
+.rows {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.letter {
+    font-size: 20px;
+    border: 1px solid rgb(202, 202, 202);
+}
+
+.button {
+    height: 20px;
+}
