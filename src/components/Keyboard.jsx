@@ -3,8 +3,6 @@ import { ActionButton } from './ActionButton';
 import { KeyboardLine } from './KeyboardLine';
 import { useEffect } from 'react';
 
-// https://developer.mozilla.org/en-US/docs/Web/API/Element/keypress_event
-
 export function Keyboard({ lettersStatus, onLetterPress, onEnterPress, onBackspacePress }) {
 	
 	useEffect(() => {
