@@ -4,7 +4,7 @@
 [https://tanny-may.github.io/wordle/]
 
 ## О проекте
-Учебный проект игры Wordle на React + Vite.
+Проект игры Wordle на React + Vite.
 
 ![image](https://github.com/user-attachments/assets/337154a4-e701-4614-a1f1-6274916a268d)
 
@@ -31,7 +31,7 @@
    ```
 3. Запустить сайт
    ```sh
-   npm start
+   npm run dev
    ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
